@@ -261,7 +261,6 @@ Si algo no queda claro:
 2. Experimenta cambiando valores
 3. Usa las DevTools del navegador (F12)
 4. ¡Pregúntame lo que necesites!
-
 ---
 
 **¡Disfruta aprendiendo! 🚀✨**

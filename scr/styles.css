@@ -317,6 +317,11 @@ button:hover {
     right: 50%;
     top: 585px;
 }
+.imegen9{
+    width: 100%;
+    max-width: 400px;
+    height: auto; 
+}
 
 /* ========================================
    SECCIONES DE CONTENIDO
@@ -563,6 +568,18 @@ button:hover {
     .imagen5 {
         width: 120%;
         left: -10%;
+    }
+    .imagen6{
+        order: -1;
+        margin: 0 auto;
+    }
+    .imagen7{
+        order: -1;
+        margin: 0 auto;
+    }
+    .imagen8{
+        order: -1;
+        margin: 0 auto;
     }
     
 
